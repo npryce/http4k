@@ -27,7 +27,7 @@ com-google-devtools-ksp = "2.2.10-2.0.2"
 com-vanniktech-gradle-maven-publish-plugin = "0.34.0"
 commons-codec = "1.19.0"
 # frozen to 3.5.2
-docker-java-core = "3.5.2"
+docker-java-core = "3.6.0"
 # frozen to 3.5.2
 docker-java-transport-httpclient5 = "3.5.2"
 dokka = "2.0.0"
